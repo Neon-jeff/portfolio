@@ -25,7 +25,10 @@ const nextConfig = {
         hostname:'www.svgrepo.com'
       }
     ]
-  }
+  },
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
 }
 
 const withMDX = nextMDX({

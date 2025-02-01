@@ -199,19 +199,20 @@ function Resume() {
       },
     },
     {
-      company: 'Witty Hub',
-      title: 'Product Designer',
-      logo: logoAirbnb,
-      start: '2023',
-      end: '2023',
-    },
-    {
       company: 'Upscale Innovations',
       title: 'Lead Fullstack Developer',
       logo: logoFacebook,
       start: '2024',
       end: '2014',
     },
+    {
+      company: 'Witty Hub',
+      title: 'Product Designer',
+      logo: logoAirbnb,
+      start: '2023',
+      end: '2023',
+    },
+ 
 
   ]
 

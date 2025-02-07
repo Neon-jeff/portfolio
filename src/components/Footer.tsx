@@ -22,7 +22,7 @@ function NavLink({
 export function Footer() {
   return (
     <footer className="mt-32 flex-none">
-      <ContainerOuter>
+      {/* <ContainerOuter>
         <div className="border-t border-zinc-100 pt-10 pb-16 dark:border-zinc-700/40">
           <ContainerInner>
             <div className="flex flex-col items-center justify-between gap-6 sm:flex-row">
@@ -39,7 +39,7 @@ export function Footer() {
             </div>
           </ContainerInner>
         </div>
-      </ContainerOuter>
+      </ContainerOuter> */}
     </footer>
   )
 }

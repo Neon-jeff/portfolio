@@ -276,19 +276,19 @@ export default async function Home() {
             I’m Neon, a software developer with experience in building web and mobile applications. I’m passionate about web3 and the future of the internet.
           </p>
           <div className="mt-6 flex gap-6">
-            <SocialLink href="#" aria-label="Follow on X" icon={XIcon} />
+            <SocialLink href="https://x.com/Jeff_tygah" aria-label="Follow on X" icon={XIcon} />
             <SocialLink
               href="#"
               aria-label="Follow on Instagram"
               icon={InstagramIcon}
             />
             <SocialLink
-              href="#"
+              href="https://github.com/Neon-jeff"
               aria-label="Follow on GitHub"
               icon={GitHubIcon}
             />
             <SocialLink
-              href="#"
+              href="https://www.linkedin.com/in/jeffrey-omamoke-20118b1b7/"
               aria-label="Follow on LinkedIn"
               icon={LinkedInIcon}
             />
